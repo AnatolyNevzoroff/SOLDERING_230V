@@ -12,3 +12,4 @@ Great.
 Additional information can be drawn on my channel to addresses:
 https://youtu.be/fV_XM6eFztk  (PART 1)
   (PART 2)
+All third-party libraries I found and connected to Arduino IDE. There are two libraries on GitHub, if you cannot find it yourself, you can pick it up from the OUTSIDE_LIBRARIES folder.
