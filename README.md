@@ -10,6 +10,6 @@ Due to the change in the number of semi-dimensions supplied to the load.
 To control lighting devices, this method is not suitable, but for a ceramic heater
 Great.
 Additional information can be drawn on my channel to addresses:
-https://youtu.be/fV_XM6eFztk  (PART 1)
+https://youtu.be/VL_2f-87QI8  (PART 1)
   (PART 2)
 All third-party libraries I found and connected to Arduino IDE. There are two libraries on GitHub, if you cannot find it yourself, you can pick it up from the OUTSIDE_LIBRARIES folder.
